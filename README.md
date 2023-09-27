@@ -1,9 +1,9 @@
 <!-- Trungquandev -->
    <div style="display: flex;">
-        <a href="#" target="_blank">
+        <div style="width:50%;">
             <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800"
                 alt="" />
-        </a>
+        </div>
         <div>
             <h2>I'm a developer Frontend</h2>
             <ul>
