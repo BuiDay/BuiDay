@@ -85,7 +85,12 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align=center>
+        <a href="#" title="Trungquandev">
+            <img width="315" align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiDay&langs_count=6" />
+        </a>
+    </div>
 <br>
 
 <br>
