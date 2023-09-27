@@ -94,7 +94,7 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+
 <div
         style="background-color: #FFCA28;padding: 10px; text-align: center; border-radius: 20px; width: 50%; margin: auto;">
         <h1>By failing to prepare, you are preparing to fail</h1>
