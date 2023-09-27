@@ -1,9 +1,4 @@
 <!-- Trungquandev -->
-   <div style="display: flex;">
-        <div style="width:50%;">
-            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800"
-                alt="" />
-        </div>
         <div>
             <h2>I'm a developer Frontend</h2>
             <ul>
@@ -15,7 +10,6 @@
                 </li>
             </ul>
         </div>
-    </div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
