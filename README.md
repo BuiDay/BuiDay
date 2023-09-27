@@ -92,7 +92,4 @@
     </div>
 <br>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
 
-<h1>By failing to prepare, you are preparing to fail</h1>
