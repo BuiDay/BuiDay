@@ -1,6 +1,6 @@
    <div style="display: flex;">
         <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800"
+            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200"
                 alt="" />
         </a>
         <div>
