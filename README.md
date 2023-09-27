@@ -1,4 +1,8 @@
-<!-- Trungquandev -->
+   <div style="display: flex;">
+        <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800"
+                alt="" />
+        </a>
         <div>
             <h2>I'm a developer Frontend</h2>
             <ul>
@@ -10,6 +14,7 @@
                 </li>
             </ul>
         </div>
+    </div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
